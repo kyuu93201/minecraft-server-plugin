@@ -1,0 +1,244 @@
+[10:20:39] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-LTS; Microsoft Microsoft-11369942) on Linux 6.8.0-1030-azure (amd64)
+[10:20:39] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.6-48-main@4d854e6 (2025-06-30T09:48:37Z) for Minecraft 1.21.6
+[10:20:40] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[10:20:48] [ServerMain/INFO]: [PluginInitializerManager] Initialized 13 plugins
+[10:20:48] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - Veinminer (2.4.9)
+[10:20:48] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (12):
+ - AngelChest (13.9.4), BlueMap (5.11), Geyser-Spigot (2.8.3-SNAPSHOT), PatPatPlugin (1.2.0+0057eaa), SkinsRestorer (15.7.9), Timber (1.7.1), ViaBackwards (5.4.2), ViaVersion (5.4.2), ViaVersionStatus (4.00), elyby-skinsystem (0.2.0-beta), floodgate (2.2.4-SNAPSHOT (b118-40d320a)), voicechat (2.5.35)
+[10:20:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:20:56] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[10:20:57] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,113.8ms
+[10:21:02] [ServerMain/INFO]: Loaded 1407 recipes
+[10:21:02] [ServerMain/INFO]: Loaded 1520 advancements
+[10:21:02] [Server thread/INFO]: Starting minecraft server version 1.21.6
+[10:21:02] [Server thread/INFO]: Loading properties
+[10:21:02] [Server thread/INFO]: This server is running Paper version 1.21.6-48-main@4d854e6 (2025-06-30T09:48:37Z) (Implementing API version 1.21.6-R0.1-SNAPSHOT)
+[10:21:02] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[10:21:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:21:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:21:03] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[10:21:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[10:21:03] [Server thread/INFO]: Default game type: SURVIVAL
+[10:21:03] [Server thread/INFO]: Generating keypair
+[10:21:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:21:03] [Server thread/INFO]: Using epoll channel type
+[10:21:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[10:21:03] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[10:21:05] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[10:21:21] [Server thread/WARN]: Legacy plugin elyby-skinsystem v0.2.0-beta does not specify an api-version.
+[10:21:21] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
+[10:21:21] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
+[10:21:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[10:21:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[10:21:22] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[10:21:22] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[10:21:23] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[10:21:25] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[10:21:25] [Server thread/INFO]: [floodgate] Took 1,619ms to boot Floodgate
+[10:21:25] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
+[10:21:25] [Server thread/INFO]: [PatPatPlugin] Loading server plugin PatPatPlugin v1.2.0+0057eaa
+[10:21:25] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
+[10:21:25] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.4.9
+[10:21:25] [Server thread/INFO]: [Veinminer] Detected platform: Paper
+[10:21:26] [Server thread/INFO]: [ViaVersionStatus] Loading server plugin ViaVersionStatus v4.00
+[10:21:26] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.35
+[10:21:26] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.4
+[10:21:26] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.11
+[10:21:26] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
+[10:21:27] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[10:21:27] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[10:21:27] [Server thread/INFO]: [elyby-skinsystem] Loading server plugin elyby-skinsystem v0.2.0-beta
+[10:21:27] [Server thread/INFO]: [Timber] Loading server plugin Timber v1.7.1
+[10:21:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:21:27] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
+[10:21:28] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.6.
+[10:21:28] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[10:21:29] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[10:21:29] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.4.9
+[10:21:29] [Server thread/INFO]: [elyby-skinsystem] Enabling elyby-skinsystem v0.2.0-beta*
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.9
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: eb4ae0c
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[10:21:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[10:21:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:21:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:21:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:21:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:21:29] [Server thread/INFO]: Preparing level "oneblock"
+[10:21:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:21:30] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
+[10:21:31] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:31] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:31] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:32] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:32] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:32] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:33] [Server thread/INFO]: Time elapsed: 2820 ms
+[10:21:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:21:33] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:33] [Server thread/INFO]: Preparing spawn area: 14%
+[10:21:33] [Server thread/INFO]: Time elapsed: 918 ms
+[10:21:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:21:33] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:34] [Server thread/INFO]: Time elapsed: 260 ms
+[10:21:34] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
+[10:21:34] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.6 (771)
+[10:21:34] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[10:21:34] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
+[10:21:34] [Server thread/INFO]: [PatPatPlugin] Enabling PatPatPlugin v1.2.0+0057eaa
+[10:21:35] [Server thread/INFO]: [patpat-plugin] Plugin started
+[10:21:35] [Server thread/INFO]: [ViaVersionStatus] Enabling ViaVersionStatus v4.00
+[10:21:35] [Server thread/INFO]: [ViaVersionStatus] Metrics enabled if allowed by plugins/bStats/config.yml
+[10:21:35] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.35
+[10:21:35] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.6-R0.1
+[10:21:35] [Server thread/INFO]: [voicechat] Compatibility version 18
+[10:21:35] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[10:21:35] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[10:21:35] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.4
+[10:21:35] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[10:21:35] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[10:21:35] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[10:21:35] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[10:21:35] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[10:21:35] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[10:21:35] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.4 (Premium: false)
+[10:21:35] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.11
+[10:21:35] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
+[10:21:35] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[10:21:35] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
+[10:21:37] [Server thread/INFO]: [Timber] Enabling Timber v1.7.1
+[10:21:39] [Server thread/INFO]: [spark] Starting background profiler...
+[10:21:40] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:21:41] [Server thread/INFO]: [Geyser-Spigot] 
+[10:21:41] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b904 (git-master-ea967a0)
+[10:21:41] [Server thread/INFO]: [Geyser-Spigot] 
+[10:21:41] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:21:46] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[10:21:46] [Server thread/INFO]: [Geyser-Spigot] Done (5.582s)! Run /geyser help for help!
+[10:21:47] [Server thread/INFO]: Done preparing level "oneblock" (17.437s)
+[10:21:47] [Server thread/INFO]: Running delayed init tasks
+[10:21:47] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[10:21:47] [Craft Scheduler Thread - 7 - BlueMap/INFO]: [BlueMap] Loading...
+[10:21:47] [Server thread/INFO]: Done (72.594s)! For help, type "help"
+[10:21:47] [Server thread/INFO]: [voicechat] Loading plugins
+[10:21:47] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[10:21:47] [Server thread/INFO]: [voicechat] Initializing plugins
+[10:21:47] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[10:21:47] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[10:21:47] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[10:21:47] [User Authenticator #0/INFO]: UUID of player nhpmeomeo is ebcce78c-9f5f-3d57-9035-9cde1e920faf
+[10:21:48] [Server thread/INFO]: nhpmeomeo (/127.245.239.118:55115) lost connection: Disconnected
+[10:21:48] [Server thread/WARN]: java.net.UnknownHostException: api.jeff-media.de
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+[10:21:48] [Server thread/WARN]: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+[10:21:48] [Server thread/WARN]: 	at java.base/java.net.Socket.connect(Socket.java:751)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:377)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1252)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1138)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1690)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1614)
+[10:21:48] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[10:21:48] [Server thread/WARN]: 	at AngelChest-13.9.4.jar//de.jeff_media.angelchest.AngelChestMain$$TA.$$case(UpdateChecker.java:203)
+[10:21:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[10:21:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[10:21:48] [Server thread/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[10:21:48] [Server thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[10:21:48] [Server thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[10:21:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[10:21:48] [Server thread/WARN]: [AngelChest] Could not check for updates.
+[10:21:49] [Craft Scheduler Thread - 7 - BlueMap/INFO]: [BlueMap] Loading resources...
+[10:21:51] [Server thread/WARN]: [Ely.By Skinsystem] May be interfering with another skin plugin.
+[10:21:51] [Server thread/INFO]: [AngelChest] ========================================================
+[10:21:51] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[10:21:51] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[10:21:51] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[10:21:51] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[10:21:51] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[10:21:51] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[10:21:51] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[10:21:51] [Server thread/INFO]: [AngelChest] 
+[10:21:51] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[10:21:51] [Server thread/INFO]: [AngelChest] ========================================================
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] ViaVersion supported protocols:
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.9(107)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.9.1(108)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.9.2(109)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.9.3-1.9.4(110)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.10.x(210)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.11(315)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.11.1-1.11.2(316)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.12(335)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.12.1(338)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.12.2(340)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.13(393)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.13.1(401)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.13.2(404)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.14(477)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.14.1(480)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.14.2(485)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.14.3(490)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.14.4(498)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.15(573)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.15.1(575)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.15.2(578)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.16(735)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.16.1(736)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.16.2(751)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.16.3(753)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.16.4-1.16.5(754)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.17(755)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.17.1(756)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.18-1.18.1(757)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.18.2(758)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.19(759)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.19.1-1.19.2(760)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.19.3(761)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.19.4(762)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.20-1.20.1(763)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.20.2(764)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.20.3-1.20.4(765)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.20.5-1.20.6(766)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.21-1.21.1(767)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.21.2-1.21.3(768)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.21.4(769)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.21.5(770)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.21.6(771)
+[10:21:52] [Server thread/INFO]: [ViaVersionStatus] 1.21.7-1.21.8(772)
+[10:21:54] [Craft Scheduler Thread - 7 - BlueMap/INFO]: [BlueMap] Resources loaded.
+[10:21:54] [Craft Scheduler Thread - 7 - BlueMap/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
+[10:21:54] [Craft Scheduler Thread - 7 - BlueMap/INFO]: [BlueMap] Loading map 'oneblock_nether'...
+[10:21:54] [Craft Scheduler Thread - 7 - BlueMap/INFO]: [BlueMap] Loading map 'oneblock'...
+[10:21:55] [Craft Scheduler Thread - 7 - BlueMap/INFO]: [BlueMap] Loading map 'oneblock_the_end'...
+[10:21:55] [Craft Scheduler Thread - 7 - BlueMap/INFO]: [BlueMap] WebServer bound to all network interfaces on port 8100
+[10:21:55] [Thread-29/INFO]: [BlueMap] WebServer started.
+[10:21:55] [Craft Scheduler Thread - 7 - BlueMap/INFO]: [BlueMap] Loaded!
+[10:22:03] [User Authenticator #0/INFO]: UUID of player nhpmeomeo is ebcce78c-9f5f-3d57-9035-9cde1e920faf
+[10:22:09] [Server thread/WARN]: [Ely.By Skinsystem] Unable to get textures for nhpmeomeo. Enable debug mode in config to obtain trace log.
+[10:22:09] [Server thread/INFO]: [ViaVersionStatus] nhpmeomeo is using version 1.21.5(770).
+[10:22:09] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:22:09] [Server thread/INFO]: nhpmeomeo joined the game
+[10:22:09] [Server thread/INFO]: nhpmeomeo[/127.245.239.118:37375] logged in with entity id 300 at ([oneblock]-15.332987983634514, 60.0, 26.230837135471795)
+[10:22:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2581ms or 51 ticks behind
+[10:22:26] [User Authenticator #0/INFO]: UUID of player kyuu-bot-1zjm is 9a58603f-5f86-3a17-8a69-9fca4c632a97
+[10:22:28] [Server thread/WARN]: [Ely.By Skinsystem] Unable to get textures for kyuu-bot-1zjm. Enable debug mode in config to obtain trace log.
+[10:22:28] [Server thread/INFO]: [ViaVersionStatus] kyuu-bot-1zjm is using version 1.21.5(770).
+[10:22:28] [Server thread/INFO]: kyuu-bot-1zjm joined the game
+[10:22:28] [Server thread/INFO]: kyuu-bot-1zjm[/127.248.230.193:49525] logged in with entity id 311 at ([oneblock]-45.50101981591938, 59.5, 18.343753421047033)
+[10:23:06] [Server thread/INFO]: [Not Secure] [Server] lmao
